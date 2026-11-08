@@ -1,12 +1,7 @@
 # Séance 3 — Probabilités : reconnaître et calculer avec la loi binomiale
 
 > **Terminale — Spécialité Mathématiques | Durée : 2h**
->
-> **Contexte :** l'élève a reçu trois fiches de cours sur la loi binomiale (TG‑20, TG‑21, TG‑22). Cette séance correspond à la première fiche (TG‑20) : reconnaître une situation binomiale, savoir la justifier, et calculer des probabilités (y compris « au moins », « au plus »).
->
-> **Prérequis :** notion de probabilité, arbre pondéré, indépendance d'évènements (vus en Première).
->
-> **Objectif :** savoir rédiger la justification d'une loi binomiale en quatre points, repérer les pièges (tirage sans remise), calculer $P(X=k)$ à la main pour les cas simples et à la calculatrice/en Python pour les cas généraux, et passer d'un évènement « au moins/au plus » à un évènement du type $P(X\leq k)$.
+
 
 ---
 
